@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fotoresistor", "Fotoresistor\Fotoresistor.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TiltSensor", "TiltSensor\TiltSensor.vcxproj", "{C5A58F13-B88D-4FF6-B698-B8FD45F9367D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pushButtons", "pushButtons\pushButtons.vcxproj", "{528E6588-BA2E-46D0-9EFF-5D5FBD9F0D06}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "potenciometar", "potenciometar\potenciometar.vcxproj", "{CC3764BD-8B5A-4DC6-BD2A-81C34C0D7BB5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AllTogether", "AllTogether\AllTogether.vcxproj", "{5104A2F0-7577-42C6-BC5F-6F7D336B4F93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{C5A58F13-B88D-4FF6-B698-B8FD45F9367D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5A58F13-B88D-4FF6-B698-B8FD45F9367D}.Debug|x86.Build.0 = Debug|Win32
+		{C5A58F13-B88D-4FF6-B698-B8FD45F9367D}.Release|x86.ActiveCfg = Release|Win32
+		{C5A58F13-B88D-4FF6-B698-B8FD45F9367D}.Release|x86.Build.0 = Release|Win32
+		{528E6588-BA2E-46D0-9EFF-5D5FBD9F0D06}.Debug|x86.ActiveCfg = Debug|Win32
+		{528E6588-BA2E-46D0-9EFF-5D5FBD9F0D06}.Debug|x86.Build.0 = Debug|Win32
+		{528E6588-BA2E-46D0-9EFF-5D5FBD9F0D06}.Release|x86.ActiveCfg = Release|Win32
+		{528E6588-BA2E-46D0-9EFF-5D5FBD9F0D06}.Release|x86.Build.0 = Release|Win32
+		{CC3764BD-8B5A-4DC6-BD2A-81C34C0D7BB5}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC3764BD-8B5A-4DC6-BD2A-81C34C0D7BB5}.Debug|x86.Build.0 = Debug|Win32
+		{CC3764BD-8B5A-4DC6-BD2A-81C34C0D7BB5}.Release|x86.ActiveCfg = Release|Win32
+		{CC3764BD-8B5A-4DC6-BD2A-81C34C0D7BB5}.Release|x86.Build.0 = Release|Win32
+		{5104A2F0-7577-42C6-BC5F-6F7D336B4F93}.Debug|x86.ActiveCfg = Debug|Win32
+		{5104A2F0-7577-42C6-BC5F-6F7D336B4F93}.Debug|x86.Build.0 = Debug|Win32
+		{5104A2F0-7577-42C6-BC5F-6F7D336B4F93}.Release|x86.ActiveCfg = Release|Win32
+		{5104A2F0-7577-42C6-BC5F-6F7D336B4F93}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
